@@ -31,6 +31,8 @@ GROQ_API_KEY=your_groq_key
 OPENAI_API_KEY=your_openai_key
 TOGETHER_API_KEY=your_together_key
 OCTA_API_KEY=your_octa_key
+AWS_ACCESS_KEY_ID=your_aws_access_key
+AWS_SECRET_ACCESS_KEY=your_aws_secret_key
 ```
 
 For AWS Bedrock, provide credentials during client initialization.
